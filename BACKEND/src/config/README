@@ -1,0 +1,11 @@
+Purpose: Configuration and setup code that the rest of the app depends on.
+
+What goes here
+
+Database connection setup
+
+Environment variables
+
+App-wide constants
+
+Third-party service configuration (JWT, Redis, AWS, etc.)

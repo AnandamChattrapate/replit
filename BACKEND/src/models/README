@@ -1,0 +1,11 @@
+Purpose: Handle what happens when a request comes in.
+
+What goes here
+
+Request handling logic
+
+Calling models
+
+Applying rules (permissions, validation, transformations)
+
+Sending responses

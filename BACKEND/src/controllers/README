@@ -1,0 +1,11 @@
+Purpose: Define how your data looks and how it’s stored.
+// business logic 
+What goes here
+
+Database schemas
+
+ORM models
+
+Data validation rules
+
+Relationships between data
